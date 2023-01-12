@@ -1,0 +1,9 @@
+@media screen and (min-height: 650px) {
+    .footer {
+        margin-top: 5rem;
+    }
+    a:hover {
+        text-decoration:underline;
+        cursor: pointer;
+    }
+}
