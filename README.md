@@ -1,5 +1,5 @@
 # Portfolio - Mobile Design
- Página simples aplicando mobile first e media-query.
+ Página simples aplicando mobile-first e media-query.
 
 Página criada em HTML e CSS, aplicando conceitos de mobile-first. O projeto foi iniciado do zero e concluído em dois usando como modelo essa imagem do Google (sem referências disponíveis).
 
