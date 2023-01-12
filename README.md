@@ -17,3 +17,5 @@ Apesar da diferença, considero como concluído meu objeto por ter:
 - Aplicado conhecimentos fundamentais de CSS e HTML sem uso de tutoriais;
 - Criado um layout funcional usando apenas uma imagem como referência;
 - Identificado minhas dificuldades e adicionado ao cronograma de estudos;
+
+Projeto finalizado no dia 12/01/2023.
