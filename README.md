@@ -7,16 +7,16 @@ Página criada em HTML e CSS, aplicando conceitos de mobile-first. O projeto foi
 
 Foram realizadas modificações nas fontes e ícones utilizados conforme necessário.
 
-O resultado final ficou assim:
+O resultado final foi esse:
 
-![image](https://user-images.githubusercontent.com/10852609/212111537-ec63f678-75c8-44cb-8bee-cc4d3a09ebee.png)
+![image](https://user-images.githubusercontent.com/10852609/212117019-56b4e098-85ba-4c4f-8ceb-c0d6f30def12.png)
 
 Apesar da diferença, considero como concluído meu objeto por ter:
 
 - Iniciado e finalizado um projeto apesar das minhas limitações de conhecimento;
 - Aplicado conhecimentos fundamentais de CSS e HTML sem uso de tutoriais;
 - Criado um layout funcional usando apenas uma imagem como referência;
-- Usado o DevTools;
+- Usado o DevTools com mais frequência;
 - Identificado minhas dificuldades e adicionado ao cronograma de estudos;
 
 Projeto finalizado no dia 12/01/2023.
